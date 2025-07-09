@@ -1,0 +1,8 @@
+C:\1Программирование\work1\абстрактный класс Item\абстрактный класс Item\bin\Debug\net9.0\абстрактный класс Item.exe
+C:\1Программирование\work1\абстрактный класс Item\абстрактный класс Item\obj\Debug\net9.0\абстрактный класс Item.GeneratedMSBuildEditorConfig.editorconfig
+C:\1Программирование\work1\абстрактный класс Item\абстрактный класс Item\obj\Debug\net9.0\абстрактный класс Item.AssemblyInfoInputs.cache
+C:\1Программирование\work1\абстрактный класс Item\абстрактный класс Item\obj\Debug\net9.0\абстрактный класс Item.AssemblyInfo.cs
+C:\1Программирование\work1\абстрактный класс Item\абстрактный класс Item\obj\Debug\net9.0\абстрактный класс Item.csproj.CoreCompileInputs.cache
+C:\1Программирование\work1\абстрактный класс Item\абстрактный класс Item\obj\Debug\net9.0\абстрактный класс Item.dll
+C:\1Программирование\work1\абстрактный класс Item\абстрактный класс Item\obj\Debug\net9.0\refint\абстрактный класс Item.dll
+C:\1Программирование\work1\абстрактный класс Item\абстрактный класс Item\obj\Debug\net9.0\абстрактный класс Item.pdb

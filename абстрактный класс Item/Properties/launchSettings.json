@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "абстрактный класс Item": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

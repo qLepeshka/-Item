@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QOWTnWn7lhM=",
+  "success": true,
+  "projectFilePath": "C:\\1Программирование\\work1\\LibraryManagementSystem\\абстрактный класс Item\\LibraryManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AORUS\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
