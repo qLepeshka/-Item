@@ -42,7 +42,7 @@ The solution is organized into the following main parts:
 
 1.  *Clone the repository:*
 bash
-    git clone https://github.com/YourUsername/LibraryManagementSystem.git
+    git clone https://github.com/qLepeshka/-Item
     cd LibraryManagementSystem
 
 2.  *Open in Visual Studio:* Open the `LibraryManagementSystem.sln` file.
